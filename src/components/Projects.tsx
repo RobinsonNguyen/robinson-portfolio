@@ -1,5 +1,5 @@
-import React from "react";
-
 export const Projects = () => {
+  try {
+  } catch (error) {}
   return <div>Projects</div>;
 };
